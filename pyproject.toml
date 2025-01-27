@@ -50,8 +50,8 @@ dependencies = ["requests"]
 dev = ["pytest==5.0.0", "pytest-cov[all]", "mypy==0.910", "black==21.10b0"]
 [project.urls]
 Homepage = "https://github.com/jbilcke-hf/py-aitube-clap"
-documentation = "https://github.com/jbilcke-hf-hf/py-aitube-clap"
-repository = "https://github.com/denkiwakame/py-aitube-clap"
+documentation = "https://github.com/jbilcke-hf/py-aitube-clap"
+repository = "https://github.com/jbilcke-hf/py-aitube-clap"
 changelog = "https://github.com/jbilcke-hf/py-aitube-clap/blob/main/CHANGELOG.md"
 
 [tool.black]
